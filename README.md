@@ -1,31 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/voaneves/lab-natty-or-not">
-    <img src="assets/img/profile.png" alt="Logo" width="160" height="160">
-  </a>
-  <h3 align="center">lab-natty-or-not</h3>
-  <p align="center">
-    Criando uma influenciadora digital criada "natty", através de IA.
-    <br />
-    <a href="https://github.com/voaneves/lab-natty-or-not"><strong>Explore a documentação »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/voaneves/lab-natty-or-not/issues">Reporte um bug</a>
-    ·
-    <a href="https://github.com/voaneves/lab-natty-or-not/issues">Peça uma funcionalidade</a>
-  </p>
-</div>
-
 <details>
   <summary>Índice</summary>
   <ol>
